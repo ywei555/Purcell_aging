@@ -95,4 +95,17 @@ for (i in 1:length(regions)){
 }
 table_s3
 
+##summary table for Cerebellum_CrusI
+tb_summary[[1]]
+##summary table for Cerebellum-Crus2
+tb_summary[[2]]
+##summary table for Cerebellum_VI
+tb_summary[[3]]
+##summary table for Vermis
+tb_summary[[4]]
+##summary table for PHG/EC
+tb_summary[[5]]
+##summary table for Hippocampus
+tb_summary[[6]]
+
 

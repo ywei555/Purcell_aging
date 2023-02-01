@@ -29,9 +29,9 @@ setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 ## load data p20
 wkdir = "../ROI_MLM_data/p20_signal"
 files = c("3_Cerebellum-CrusI_ROIdata_cond-type-region-hemi_20p.csv",
-          "5_Stark_Cerebellum-Crus2_cond-type-region-hemi_mean.csv",
+          "5_Stark_Cerebellum-Crus2_cond-type-region-hemi_20p.csv",
           "4_Cerebellum-VI_ROIdata_cond-type-region-hemi_20p.csv",
-          "6_Stark_Cerebellum-vermis8_cond-type-region-hemi_mean.csv",
+          "6_Stark_Cerebellum-vermis8_cond-type-region-hemi_20p.csv",
           "2_Stark_PHC_cond-type-region-hemi_20p.csv",
           "1_Stark_Hippocampus_cond-type-region-hemi_20p.csv");
 agedata = list()
